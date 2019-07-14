@@ -1,3 +1,5 @@
-# Components Library v1.0.0
+# Components Library
 
-Collection of useful components
+VERSION: 0.0.1
+
+Collection of useful components & snippets
