@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 /* use: @include for-desktop { ... }; */
 
+=======
+>>>>>>> 5e7693c (media query mixin started)
 @mixin for-desktop {
   @media (min-width: 40em) { @content; }
 }
