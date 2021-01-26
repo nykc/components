@@ -1,3 +1,5 @@
+/* use: @include for-desktop { ... }; */
+
 @mixin for-desktop {
   @media (min-width: 40em) { @content; }
 }
